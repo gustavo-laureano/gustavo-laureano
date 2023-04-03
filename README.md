@@ -7,7 +7,7 @@
 
 
 
-![Card](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&&theme=graywhite)
+![Card](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&&theme=graywhite&hide_title=true)
   
 
 <br><br>
