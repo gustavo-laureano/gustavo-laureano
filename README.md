@@ -4,11 +4,14 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 - 🌱 I’m currently learning Python
-<p align=right>
-![](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=transparent)
-  </p>
+
+
+
+![Card](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=transparent)
+  
 
 <br><br>
 
-
-[![twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gustavo1aureano)](https://github.com/gazf/github-readme-twitter)
+<picture align="right">
+[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gustavo1aureano)](https://github.com/gazf/github-readme-twitter)
+</picture>
