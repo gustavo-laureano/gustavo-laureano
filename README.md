@@ -4,8 +4,9 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 - 🌱 I’m currently learning Python
-
+<p align=right>
 ![](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=transparent)
+  </p>
 
 <br><br>
 
