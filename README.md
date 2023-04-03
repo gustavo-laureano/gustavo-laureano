@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=transparent)
 
 <picture>
-  <img border-radius="100px"; src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img border-radius=0.375rem; src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </picture>
 
 
