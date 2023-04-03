@@ -5,10 +5,8 @@
 
 <h3> 🌱 I’m currently learning Python </h3>
 
-
-
 ![Card](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&&theme=graywhite&hide_title=true)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-laureano&layout=compact&theme=graywhite&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
