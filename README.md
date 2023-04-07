@@ -1,5 +1,4 @@
-<div align="center">
-<img  height="700px" src="https://gist.githubusercontent.com/gustavo-laureano/ec3c3033eef6996b5e955a6eaeb9daed/raw/b72f847f00bfb8a56c3e8c5c05e4868c537581d5/card.svg">
+<img  src="https://gist.githubusercontent.com/gustavo-laureano/ec3c3033eef6996b5e955a6eaeb9daed/raw/b72f847f00bfb8a56c3e8c5c05e4868c537581d5/card.svg">
 
 </div>
 <!-- <align="left">Hello</h1>
