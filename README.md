@@ -1,5 +1,3 @@
-<img  src="https://gist.githubusercontent.com/gustavo-laureano/ec3c3033eef6996b5e955a6eaeb9daed/raw/b72f847f00bfb8a56c3e8c5c05e4868c537581d5/card.svg">
-
 </div>
 <!-- <align="left">Hello</h1>
 
@@ -8,9 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=gustavo-laureano&color=grey" alt="Views" />' </p>
 
 <link rel="stylesheet" type="text/css" href="style.css">
+<h1>Hello<h1>
 
-
-<h3> 🌱 I’m currently learning Python </h3>
+<h3> 🌱 I’m currently learning ReactJS</h3>
 
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&&theme=graywhite&hide_title=true)
