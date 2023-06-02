@@ -1,12 +1,11 @@
 <div margin="auto">
- <align="left">Hello</h1>
+ <p align="left">
+   <h1>Hello<h1>
+      <img src="https://komarev.com/ghpvc/?username=gustavo-laureano&color=grey" alt="Views" />' 
+ </p>
 
-<p align="left">
-  
-<img src="https://komarev.com/ghpvc/?username=gustavo-laureano&color=grey" alt="Views" />' </p>
+      <link rel="stylesheet" type="text/css" href="style.css">
 
-<link rel="stylesheet" type="text/css" href="style.css">
-<h1>Hello<h1>
 
 <h3> 🌱 I’m currently learning ReactJS</h3>
 
