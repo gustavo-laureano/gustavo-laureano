@@ -4,7 +4,7 @@
       <img src="https://komarev.com/ghpvc/?username=gustavo-laureano&color=grey" alt="Views" />' 
  </p>
 
-      <link rel="stylesheet" type="text/css" href="style.css">
+      
 
 
 <h3> 🌱 I’m currently learning ReactJS</h3>
