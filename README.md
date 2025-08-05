@@ -3,5 +3,6 @@
 
 <h1>Veja alguns de meus projetos 🚀</h1>
 
-- [LinkCenter](https://github.com/gustavo-laureano/linkcenter) 
+- [LinkCenter](https://github.com/gustavo-laureano/linkcenter)
+- [Ocelot](https://github.com/gustavo-laureano/ocelot) 
 - [Curso de Digitação](https://github.com/gustavo-laureano/curso-de-digitacao)
