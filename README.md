@@ -83,6 +83,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <br>
 </details>
+
+<details>
+  <summary><strong>🗑️ Lixeira Inteligente - Sistema IoT</strong></summary>
+
+  [/lixeira-inteligente](https://github.com/gustavo-laureano/lixeira-inteligente)
+  <p>Um projeto de IoT que monitora o nível de resíduos em tempo real, otimizando a coleta de lixo urbano através de sensores e conectividade inteligente.</p>
+  <strong>Tecnologias:</strong> <br>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <br>
+</details>
 <br>
 
 <div align="right">
