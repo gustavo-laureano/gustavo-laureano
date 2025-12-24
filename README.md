@@ -1,11 +1,12 @@
 <div align="center">
   <h1>Olá, eu sou Gustavo Laureano! 🐱‍💻 </h1>
-  <h3>Desenvolvedor Full-Stack | Web Designer</h3>
+  <h3>FullStack Developer | Solutions Architect</h3>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavolaureano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gustavolaureanodealmeida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/gustavo-laureano"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
@@ -13,54 +14,65 @@
 ### 🔎 Sobre Mim
 
 <p>
-  Sou um desenvolvedor e tenho uma grande facilidade em aprender e estou sempre em busca de novos conhecimentos. Com experiência em todo o ciclo de desenvolvimento, do design no Figma à implementação de bancos de dados robustos, meu objetivo é criar aplicações funcionais, escaláveis e com uma ótima experiência para o usuário.
+  Sou um <strong>Programador Full Stack</strong> com jornada iniciada aos 13 anos. Especialista em arquitetura de soluções e suporte técnico de alto nível, unindo domínio de SQL à proatividade estratégica para transformar desafios técnicos em eficiência operacional.
   <br><br>
-  - 🔭 Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades. 
+  🎓 <strong>Formação:</strong> Graduando em Engenharia da Computação na Universidade do Estado de Minas Gerais (UEMG) - <i>Previsão: 2029</i>.
+  <br><br>
+  - 🌱 Estou aprimorando conhecimentos em <strong>Java (Spring)</strong> e arquitetura de software.
   <br>
-  - 🌱 Estou sempre aprendendo sobre as novas tecnologias do ecossistema JavaScript.
-  <br>
-  - 💬 Me chame para falar sobre tecnologia, UI/UX e desenvolvimento de software!
+  - 💬 Me chame para falar sobre Full Stack, UI/UX e Otimização de Banco de Dados!
 </p>
 
 ---
 
 ### 🚀 Minha Stack de Tecnologias
 
-<div row>
-  <div align="left">
-    <p><strong>Frontend</strong></p>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma&perline=5" />
-  </div>
-  <div align="left">
-    <p ><strong>Backend & Banco de Dados</strong></p>
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,docker,postgres&perline=5" />
-  </div>
+<div align="center">
+  <p><strong>Linguagens & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,ts,js,cs&perline=7" />
+  
+  <p><strong>Frontend & UI Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,html,css,figma,photoshop,wordpress&perline=8" />
+
+  <p><strong>Dados & DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx,linux,azure&perline=6" />
 </div>
 
 ---
 
 ### 📈 Minhas Estatísticas
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=blue&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-laureano&layout=compact&langs_count=8&theme=blue" alt="Top Languages"/>
-</div>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavo-laureano&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavo-laureano&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="150" alt="Langs" />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-laureano&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-laureano&bg_color=00000000&color=000000&line=3B74BE&point=000000&area=true&hide_border=true" />
 </div>
+
+<br clear="both">
 
 ---
 
-### 💡 Projetos
+### 💡 Projetos em Destaque
 
 <details>
-  <summary><strong>🐆 Ocelot - Sistema de Gestão</strong></summary>
+  <summary><strong>🐆 Ocelot - Ecossistema de Gestão</strong></summary>
   
   [/ocelot](https://github.com/gustavo-laureano/ocelot) 
-  <p>Uma aplicação completa para gerenciamento de projetos, com funcionalidades de cadastro, relatórios e um dashboard interativo.</p>
+  <p>Ecossistema de gestão de projetos que inclui inventário, relatórios analíticos e dashboards dinâmicos para tomada de decisão estratégica.</p>
   <strong>Tecnologias:</strong> <br>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=angular,java,spring,mysql,docker" />
+  <br>
+</details>
+
+<details>
+  <summary><strong>🦉 OWL - Gestão Acadêmica (UEMG)</strong></summary>
+  
+  [/owl](https://github.com/gustavo-laureano/owl)
+  <p>Sistema de gerenciamento de formulários de TCC para a UEMG. Desenvolvido em colaboração docente para automatizar fluxos acadêmicos.</p>
+  <strong>Tecnologias:</strong> <br>
+  <img src="https://skillicons.dev/icons?i=react,ts,postgres,nodejs" />
   <br>
 </details>
 
@@ -68,17 +80,7 @@
   <summary><strong>🚀 LinkCenter - Agregador de Links</strong></summary>
   
   [/linkcenter](https://github.com/gustavo-laureano/linkcenter)
-  <p>Um agregador de links de código aberto, construído para ser simples, rápido e totalmente personalizável. Ideal para centralizar todas as suas redes em um único lugar.</p>
-  <strong>Tecnologias:</strong> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-  <br>
-</details>
-
-<details>
-  <summary><a src=''><strong>⌨️ Curso de Digitação - Plataforma Interativa</strong></summary>
-
-  [/curso-de-digitacao](https://github.com/gustavo-laureano/curso-de-digitacao)
-  <p>Uma ferramenta web para ajudar usuários a melhorar sua velocidade e precisão de digitação através de lições e testes práticos.</p>
+  <p>Um agregador de links open-source, construído para ser simples, rápido e totalmente personalizável.</p>
   <strong>Tecnologias:</strong> <br>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <br>
@@ -88,7 +90,7 @@
   <summary><strong>🗑️ Lixeira Inteligente - Sistema IoT</strong></summary>
 
   [/lixeira-inteligente](https://github.com/gustavo-laureano/lixeira-inteligente)
-  <p>Um projeto de IoT que monitora o nível de resíduos em tempo real, otimizando a coleta de lixo urbano através de sensores e conectividade inteligente.</p>
+  <p>Projeto IoT para monitoramento de resíduos em tempo real, otimizando a coleta urbana através de sensores.</p>
   <strong>Tecnologias:</strong> <br>
   <img src="https://skillicons.dev/icons?i=arduino,cpp" />
   <br>
