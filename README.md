@@ -11,7 +11,7 @@
 
 ### 🔎 About Me
 
-I am a **Full Stack Developer** with an entrepreneurial mindset, passionate about building scalable solutions. Currently, I balance my role as the founder of **[Kube Solutions](https://kubesolucoes.cloud/)** —where we deliver high-performance landing pages and custom software—with my Computer Engineering degree at UEMG.
+I am a **Full Stack Developer** with an entrepreneurial mindset, passionate about building scalable solutions. Currently, I balance my role as the founder of **[Kube Solutions](https://kubesolucoes.cloud/)** — where we deliver high-performance landing pages and custom software-with my Computer Engineering degree at UEMG.
 
 - ⚡ **Current Focus:** Transitioning into **Data Engineering**, mastering **Databricks, Apache Spark, and ETL pipelines**.
 - 🚀 **Kube Solutions:** Helping businesses grow through functional design and technical excellence.
